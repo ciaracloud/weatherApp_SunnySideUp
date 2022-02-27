@@ -1,6 +1,8 @@
 # Sunny Side Up
 
-## Video Walk Through: 
+![Sunny Side Up Screenshot](images/sunnySideUp.png)
+
+## Video Walk Through:
 
 https://youtu.be/3X9yLwFWr_w
 
@@ -23,9 +25,3 @@ Sunny Side Up is a weather app that loads different egg images depending on what
 ### Notes:
 
 - In order to test the app, you must insert your own Open Weather Map api key in the apiKey variable string on line 27.
-
-
-
-
-
-
