@@ -22,7 +22,7 @@ Sunny Side Up is a weather app that loads daily weather and weekly forecast for 
 
 - [Open Weather Map](https://openweathermap.org/api)
 
-### Notes:
+## Notes:
 
 - In order to test the app, you must insert your own Open Weather Map api key in the apiKey variable string on line 27.
 
