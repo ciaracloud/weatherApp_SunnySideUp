@@ -22,10 +22,13 @@ Sunny Side Up is a weather app that loads daily weather and weekly forecast for 
 
 - [Open Weather Map](https://openweathermap.org/api)
 
+## Dev To Blog Post:
+- Check out my [Dev To blog post](https://dev.to/ciaracloud/my-egg-citing-weather-app-2ipe) for many **egg-cellent** puns about my project!
+
 ## Notes:
 
 - In order to test the app, you will have to insert your own Open Weather Map api key in the apiKey variable string on line 27.
 
 ![API Key Screenshot](images/apiKeyScreenshot.png)
 
-- Check out my [Dev To blog post](https://openweathermap.org/api) about this project!
+
