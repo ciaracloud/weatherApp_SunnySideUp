@@ -6,6 +6,10 @@
 
 https://youtu.be/3X9yLwFWr_w
 
+## Live site:
+
+https://sunnysideupweather.netlify.app/
+
 ## Overview:
 
 Sunny Side Up is a weather app that loads daily weather and weekly forecast for a city that the user looks up. Different egg images are loaded in the weather app depending on what the weather is for the day. The app merges functionality with entertainment for an enjoyable user experience.
